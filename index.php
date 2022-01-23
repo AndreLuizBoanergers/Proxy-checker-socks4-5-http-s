@@ -238,7 +238,7 @@
 			<div class="btn">
 				<input type="submit" from="form" id='btn'  name='btn' value="Checkar">
 				<input type="submit" id='btnCopy' class="copy" value="Copiar">
-				<p>Versão Free limited</p>
+				<p></p>
 			</div>
 		</form>
 	</div>
