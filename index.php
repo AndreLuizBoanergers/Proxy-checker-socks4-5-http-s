@@ -251,7 +251,7 @@
 		</div>
 	</div>
 	<div>
-		<link rel="stylesheet" href="https://cdn.positus.global/production/resources/robbu/whatsapp-button/whatsapp-button.css"> <a id="robbu-whatsapp-button" target="_blank" href="https://api.whatsapp.com/send?phone=5516996023254&text=%3C?%20=%22Ol%C3%A1%20gostaria%20de%20saber%20sobre%22%20?%3E"> <img src="https://cdn.positus.global/production/resources/robbu/whatsapp-button/whatsapp-icon.svg"> </a>
+		<link rel="stylesheet" href="https://cdn.positus.global/production/resources/robbu/whatsapp-button/whatsapp-button.css"> <a id="robbu-whatsapp-button" target="_blank" href="https://api.whatsapp.com/send?phone=0000000000&text=%3C?%20=%22Ol%C3%A1%20gostaria%20de%20saber%20sobre%22%20?%3E"> <img src="https://cdn.positus.global/production/resources/robbu/whatsapp-button/whatsapp-icon.svg"> </a>
 	</div>
 	<script src="jquery-3.6.0.min.js"></script>
 	<script src="script.js"></script>
